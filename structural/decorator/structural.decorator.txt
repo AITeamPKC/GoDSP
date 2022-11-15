@@ -1,0 +1,1 @@
+Facilitates the addition of behaviors to individual objects through embedding.

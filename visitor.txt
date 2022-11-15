@@ -1,0 +1,4 @@
+A pattern where a component (visitor) is allowed to traverse the entire hierarchy of types. Implemented by propagating a single Accept() method throughout the entire hierarchy
+1 thanh phan co the di ra tat ca cac type?
+
+Một mẫu trong đó một thành phần (khách truy cập) được phép duyệt qua toàn bộ hệ thống phân cấp của các loại. Được triển khai bằng cách phổ biến một phương thức Accept () duy nhất trong toàn bộ hệ thống phân cấp

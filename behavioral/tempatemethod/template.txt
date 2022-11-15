@@ -1,0 +1,1 @@
+A skeleton algorithm defined in a function. Function can either use an interface (like Strategy) or can take several functions as argument

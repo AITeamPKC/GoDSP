@@ -1,0 +1,3 @@
+An object which represents and instruction to perform a particular action. Contains all the information necessary for the action to be taken
+
+1 đối tượng thể hiện 1 hướng dẫn cho 1 hành động cụ thể, bao gồm toàn bộ thông tin cần thiết để hành động được thực hiện

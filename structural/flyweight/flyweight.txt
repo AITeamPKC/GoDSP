@@ -1,0 +1,3 @@
+A space optimazation technique that lets us use less memory by storing externally the data associated with similar objects
+
+=> luu cac objects giong nhau ra mot cho?
